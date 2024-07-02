@@ -26,7 +26,7 @@ The dataset is from a cardiovascular study on residents of the town of Framingha
 - 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”
 
 ## Exploratory Data Analysis and Preprocessing Data 
-- encode categorical features, 
+ 
 
 ## References
 [Heart Disease](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data)
